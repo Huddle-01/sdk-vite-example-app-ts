@@ -250,13 +250,12 @@
   resolved "https://registry.yarnpkg.com/@esbuild/linux-loong64/-/linux-loong64-0.15.16.tgz#284522de76abe951e4ed2bd24a467e8d49c67933"
   integrity sha512-SDLfP1uoB0HZ14CdVYgagllgrG7Mdxhkt4jDJOKl/MldKrkQ6vDJMZKl2+5XsEY/Lzz37fjgLQoJBGuAw/x8kQ==
 
-"@huddle01/huddle01-client@^0.0.9":
-  version "0.0.9"
-  resolved "https://registry.yarnpkg.com/@huddle01/huddle01-client/-/huddle01-client-0.0.9.tgz#342e6f21cfb6836ace9a6ae481f25be03ff06aae"
-  integrity sha512-yZ87O1l/dG6MTc5z3sO4OoRbHuGzPySBPBzl7k1TvlmYT7jUeiVrwSdnZTG/DvDGM4sxEG8k54srh1FA0fKLdA==
+"@huddle01/huddle01-client@^0.0.10":
+  version "0.0.10"
+  resolved "https://registry.yarnpkg.com/@huddle01/huddle01-client/-/huddle01-client-0.0.10.tgz#a17451d20217a0f05e6f67472800ba27786ac70c"
+  integrity sha512-YVQJOXHmldtr1mQZY133k6RtUhfTmECihNSsF0KecFxwhG2mAevK5aCspSkHIlOs1ta0Rbqrf4rjxTmNV90Xfw==
   dependencies:
     axios "^0.27.2"
-    dayjs "^1.11.4"
     hark "^1.2.3"
     mediasoup-client "^3.6.51"
     protoo-client "^4.0.6"
@@ -452,11 +451,6 @@ d@1, d@^1.0.1:
   dependencies:
     es5-ext "^0.10.50"
     type "^1.0.1"
-
-dayjs@^1.11.4:
-  version "1.11.6"
-  resolved "https://registry.yarnpkg.com/dayjs/-/dayjs-1.11.6.tgz#2e79a226314ec3ec904e3ee1dd5a4f5e5b1c7afb"
-  integrity sha512-zZbY5giJAinCG+7AGaw0wIhNZ6J8AhWuSXKvuc1KAyMiRsvGQWqh4L+MomvhdAYjN+lqvVCMq1I41e3YHvXkyQ==
 
 debug@^2.2.0:
   version "2.6.9"
